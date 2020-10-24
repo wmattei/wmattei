@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eat, Code, Sleep, Repeat!! I love it
+I am a developer and i develop
 
 - 🔭 I’m currently working at Westpoint Software Solutions
 - 👯 I’m looking to collaborate on CLI's, AWS CDK and "lodash _ish_" helpers
