@@ -7,3 +7,7 @@ I am a developer and i develop
 - 💬 I love helping and discussing react, nodejs, mongodb and AWS services
 - 📫 How to reach me: wagner@westpoint.io
 - ⚡ Fun fact: Bears can climb faster than run
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmattei&layout=compact" alt="ruivalim" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wmattei&show_icons=true" alt="ruivalim" /></p>
