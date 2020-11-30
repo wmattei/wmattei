@@ -9,5 +9,5 @@ I am a developer and i develop
 - ⚡ Fun fact: Cows doesn't know Flutter
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmattei&layout=compact" alt="ruivalim" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wmattei&show_icons=true" alt="ruivalim" /></p>
