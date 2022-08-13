@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a average software developer passionated in building MVPs for exciting startups!
+I am a software developer passionated in building MVPs for exciting startups!
 
 📫 How to reach me: wagner.mattei@gmail.com
 
